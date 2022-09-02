@@ -1,2 +1,2 @@
-# Crome-extension
-Making a Crome Extension 
+# Crome Clock
+Making a Crome Clock
